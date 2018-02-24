@@ -1,0 +1,6 @@
+model_checkpoint_path: "SpaceInvaders-v0-50000"
+all_model_checkpoint_paths: "SpaceInvaders-v0-46000"
+all_model_checkpoint_paths: "SpaceInvaders-v0-47000"
+all_model_checkpoint_paths: "SpaceInvaders-v0-48000"
+all_model_checkpoint_paths: "SpaceInvaders-v0-49000"
+all_model_checkpoint_paths: "SpaceInvaders-v0-50000"
